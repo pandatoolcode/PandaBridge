@@ -1,14 +1,12 @@
-# Information
-PandaBridge is a cross-chain aggregation platform launched by PandaTool, allowing anyone to quickly exchange assets between different blockchains without 
-the need for registration or login. Currently, Panda Bridge supports chains such as BSC, BSC Testnet, Goerli, and various tokens including BNB, tBNB, Geth.
-Compared to other cross-chain bridges, Panda Bridge offers instant transaction confirmation, low costs, and a user-friendly interface, making it one of the most popular cross-chain bridges in the EVM ecosystem.
+# PandaBridge 专注小额加密资产跨链兑换
 
-# Smart Contract
-- BNB Smart Chain: https://bscscan.com/address/0xd9a2f27e0bdb744cba37b67bef7ee293bffb4deb
-- BNB Smart Chain Teatnet: https://testnet.bscscan.com/address/0xcC6E11060bbb127De445A0EdE05771DF046AB810
-- Goerli Testnet: https://goerli.etherscan.io/address/0x43db2d31357548ee380c059a70283ece58c14aa6
+![GitHub图像](/熊猫桥.jpg)
 
-# Contact
-- https://pandabridge.org/
+PandaBridge是由PandaTool提供支持的跨链工具，专注于小额加密资产兑换，旨在为用户提供快速、安全且高效的跨链交易服务。和传统跨链桥不同，PandaBridge带来多链多资产代币的跨链支持，告别传统跨链桥的单一代币限制。PandaBridge不仅可以在不同链上进行Gas代币与主流代币（如稳定币等）的互换，还确保了安全性和高效性，极大提升了用户的跨链体验。
+
+目前，PandaBridge支持USDT、ETH、SOL、BNB、TRX等加密货币的跨链兑换，现已接入波场链TRON、币安链BSC、以太坊链、Arbitrum、Optimism、Solana、Polygon等。
+
+# 联系
+- https://bridge.pandatool.org/
 - https://t.me/pandatool
 - https://help.pandatool.org/bridge/information
